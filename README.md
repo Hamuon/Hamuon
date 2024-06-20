@@ -6,7 +6,7 @@ I'm Hamun 👋, a Mid-Level web developer 🧑‍💻 from Tabriz, Iran 🏙️.
  </p>
 </b>
 
-<img align="center" height="200" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"  /><br/>
+<img align="center" height="200" src="https://i.pinimg.com/originals/3d/5c/35/3d5c355266144277cfd4e0bb3df4b520.gif"  /><br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamun-javadzadeghan/)
