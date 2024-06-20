@@ -5,8 +5,7 @@
 I'm Hamun 👋, a Mid-Level web developer 🧑‍💻 from Tabriz, Iran 🏙️. Front-end specialist passionate about turning ideas 💡 into tech reality. Began with wordpress 🐍 in high school, shifted to captivating UI via JavaScript ⚰️, CSS, Tailwindcss and so on. Love startups 🫰, aiming to stretch my imagination's limits 🚦. Explore my work and collaborations! 🚀
  </p>
 </b>
-<img align="center" height="200" src="https://i.pinimg.com/originals/ef/c7/df/efc7df4bdceff01d890961f3eb368863.gif"/><br/>
-
+<img align="center" height="200" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/><br/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamun-javadzadeghan/)
 # 💻 Tech Stack:
