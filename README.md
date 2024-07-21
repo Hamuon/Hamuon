@@ -7,6 +7,29 @@ I'm Hamun 👋, a Mid-Level web developer 🧑‍💻 from Tabriz, Iran 🏙️.
 </b>
 <img align="center" height="450" src="https://i.pinimg.com/originals/49/29/57/4929571ca9465e280f1fa7e9bd7772aa.gif"/><br/>
 
+```javascript
+const Hamun = {     
+    pronouns: "He" | "Him",     
+    aboutMe: "I'm Full-Stack JS Developerr"
+    language: ["javaScript", "typeScript"],         
+    myStack: {             
+        backEnd: {             
+          frameworks: ["Express.js"],                   
+          DataBases: ["MongoDB", "MySQL"],
+          architectures: ["MVC", "clean", "SOLID", "Singleton"],
+          API: ["postman", "swagger"],
+          
+        },         
+        frontEnd: {
+          languages: ["Html", "Css", "JavaScript", "TypeScript"],
+          frameworks: ["Next.js", "React.js", "Tailwind.css", "MUI", "Bootstrap"],                   
+          other: ["Redux", "Redux-toolkit", "daisyUI", "React-hook-form", "Zod", "React-router", "Docker", "Styled-components"],
+        },                       
+   },     
+   funFact: "Bug's and Errors are my best friends" 
+};
+```
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
