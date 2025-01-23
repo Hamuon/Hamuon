@@ -9,8 +9,6 @@ I'm Hamun 👋, a Mid-Level web developer 🧑‍💻 from Tabriz, Iran 🏙️.
 
 ```javascript
 const Hamun = {     
-    pronouns: "He" | "Him",     
-    aboutMe: "I'm Full-Stack JS Developerr"
     language: ["javaScript", "typeScript"],         
     myStack: {             
         backEnd: {             
@@ -21,8 +19,8 @@ const Hamun = {
         },         
         frontEnd: {
           languages: ["Html", "Css", "JavaScript", "TypeScript"],
-          frameworks: ["Next.js", "React.js", "Tailwind.css", "MUI", "Bootstrap"],                   
-          other: ["Redux", "Redux-toolkit", "React-hook-form", "Zod", "Docker", "Styled-components", "Mantine", "Ant Design", "MUI", "Chakra UI", "Shadcn"],
+          frameworks: ["Next.js", "React.js"],                   
+          other: ["Redux", "Sass", "Mantine", "Ant Design", "Material", "Tailwind", "Mantine", "Shadcn", "Chakra"],
         },                       
    },     
    funFact: "Bug's and Errors are my best friends" 
