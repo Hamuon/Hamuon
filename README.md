@@ -5,7 +5,7 @@
 I'm Hamun 👋, a Mid-Level web developer 🧑‍💻 from Tabriz, Iran 🏙️. Front-end specialist passionate about turning ideas 💡 into tech reality. Began with wordpress 🐍 in high school, shifted to captivating UI via JavaScript ⚰️, CSS, Tailwindcss and so on. Love startups 🫰, aiming to stretch my imagination's limits 🚦. Explore my work and collaborations! 🚀
  </p>
 </b>
-<img align="center" height="450" src="https://i.pinimg.com/originals/49/29/57/4929571ca9465e280f1fa7e9bd7772aa.gif"/><br/>
+<img align="center" height="250" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/><br/>
 
 ```javascript
 const Hamun = {     
@@ -14,16 +14,15 @@ const Hamun = {
     language: ["javaScript", "typeScript"],         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js"],                   
+          frameworks: ["Express.js, "Nest.js"],                   
           DataBases: ["MongoDB", "MySQL"],
-          architectures: ["MVC", "clean", "SOLID", "Singleton"],
           API: ["postman", "swagger"],
           
         },         
         frontEnd: {
           languages: ["Html", "Css", "JavaScript", "TypeScript"],
           frameworks: ["Next.js", "React.js", "Tailwind.css", "MUI", "Bootstrap"],                   
-          other: ["Redux", "Redux-toolkit", "daisyUI", "React-hook-form", "Zod", "React-router", "Docker", "Styled-components"],
+          other: ["Redux", "Redux-toolkit", "React-hook-form", "Zod", "Docker", "Styled-components", "Mantine", "Ant Design", "MUI", "Chakra UI", "Shadcn"],
         },                       
    },     
    funFact: "Bug's and Errors are my best friends" 
