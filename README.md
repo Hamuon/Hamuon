@@ -12,7 +12,7 @@ const Hamun = {
     language: ["javaScript", "typeScript"],         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js, "Nest.js"],                   
+          frameworks: ["Express.js", "Nest.js"],                   
           DataBases: ["MongoDB", "MySQL"],
           API: ["postman", "swagger"],
           
