@@ -2,7 +2,7 @@
 
 <b>
  <p align="left">
-I'm Hamun 👋, a Mid-Level web developer 🧑‍💻 from Tabriz, Iran 🏙️. Front-end specialist passionate about turning ideas 💡 into tech reality. Began with wordpress 🐍 in high school, shifted to captivating UI via JavaScript ⚰️, CSS, Tailwindcss and so on. Love startups 🫰, aiming to stretch my imagination's limits 🚦. Explore my work and collaborations! 🚀
+Innovative software developer with a proven track record of optimizing application performance, enhancing user experience through UI redesigns, and improving code quality. Committed to delivering high-impact web solutions and fostering collaborative team environments. currently I'm working as a full-time Frontend Developer at Melazo.
  </p>
 </b>
 <img align="center" height="250" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/><br/>
@@ -13,14 +13,13 @@ const Hamun = {
     myStack: {             
         backEnd: {             
           frameworks: ["Express.js", "Nest.js"],                   
-          DataBases: ["MongoDB", "MySQL"],
+          DataBases: ["MongoDB", "MySQL", "Postgres"],
           API: ["postman", "swagger"],
           
         },         
         frontEnd: {
-          languages: ["Html", "Css", "JavaScript", "TypeScript"],
           frameworks: ["Next.js", "React.js"],                   
-          other: ["Redux", "Sass", "Mantine", "Ant Design", "Material", "Tailwind", "Mantine", "Shadcn", "Chakra"],
+          other: ["Redux", "Zustand", "Sass", "Mantine", "Ant Design", "Material/UI", "Tailwind", "Mantine", "Shadcn"],
         },                       
    },     
    funFact: "Bug's and Errors are my best friends" 
@@ -66,7 +65,5 @@ js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)<br/>
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
