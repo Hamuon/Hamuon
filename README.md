@@ -67,7 +67,6 @@ js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)<br/>
 ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamuon&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
----
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
